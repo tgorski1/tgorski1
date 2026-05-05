@@ -2,7 +2,7 @@
 
 ### Cytometry In R
 
-Location: Baltimore, Maryland, USA
+Location: Zurich, CHE
 
 My Favorite Fluorophore/Metal-Isotope: EGFP
 
